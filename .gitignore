@@ -77,3 +77,4 @@ storage/*
 restore/*
 ghostdriver.log
 .webcache/*
+*.zip
